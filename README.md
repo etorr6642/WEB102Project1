@@ -1,33 +1,33 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - EDM Festival Favorites
 
-Submitted by: Edward Torres
+**Submitted by:** Edward Torres
 
-This web app: **insert description**
+**Description:** This web app lists some of the top EDM festivals in the US. Each festival displayed show a picture/logo, the festival location, and a link to the webiste
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
-  - [ ] Header/title describing the theme is displayed
-- [ ] **At least 10 unique events or resources are displayed in a responsive card format**
-  - [ ] There are at least 10 cards displayed 
-  - [ ] The cards should be displayed in an organized format (ex. a grid, or in one line)
-  - [ ] Each card should include some information about the event or resource
+- [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
+- [x] Header/title describing the theme is displayed
+- [x] **At least 10 unique events or resources are displayed in a responsive card format**
+- [x] There are at least 10 cards displayed 
+- [x] The cards should be displayed in an organized format (ex. a grid, or in one line)
+- [x] Each card should include some information about the event or resource
 
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-  - [ ] All cards have buttons or links in addition to text
-- [ ] The site is responsive for both desktop and mobile formats
-  - [ ] Web app is shown in a mobile format
+- [x] Buttons or links to a related resources are on each card component
+- [x] All cards have buttons or links in addition to text
+- [x] The site is responsive for both desktop and mobile formats
+- [x] Web app is shown in a mobile format
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] Hover css implemented for easy viewing
 
 ## Video Walkthrough
 
@@ -44,11 +44,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While building the app, I had some trouble with the sizing of the cards. I created a table like we did in our lab so I wanted to follow the same structure. I also had some issues with the color scheme. I wanted to create one that was easy on the eyes but still fit the theme of EDM
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Edward Torres]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

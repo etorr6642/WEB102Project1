@@ -8,8 +8,12 @@ const App = () => {
 
   return (
     <div className="App">
+      
+      <div className='title'>
       <h1>EDM Festival Favorites</h1>
       <p>Welcome to the list of some of the best EDM Festivals in the US!</p>
+      </div>
+      
       <Homepage />
     </div>
   )
