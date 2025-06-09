@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 Video Walkthrough: https://i.imgur.com/UTNz5LD.gif 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
